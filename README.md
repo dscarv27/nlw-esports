@@ -22,4 +22,4 @@ Seções, Listas e Tags;
 Acessibilidade;
 
 -CSS:
-- import de fontes, reset de página, hover, linear-gradient, key-frames, :nth-child e responsividade
+- Import de fontes, Reset de página, Hover, Linear-gradient, Key-frames, :nth-child e Responsividade
