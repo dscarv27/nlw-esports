@@ -167,3 +167,13 @@ main section:nth-child(3){
         transform: translateX(0)
     }
 }
+
+@media screen and (max-width: 425px) {
+    body{
+        text-align: center;
+    }
+    .games-list, .channel-list, .social-list{
+        display: flex;
+        justify-content: center;
+    }
+  } 
